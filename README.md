@@ -15,18 +15,18 @@ Performance-Marketing-Analytics
 │   └── marketing_campaign_data.xlsx
 │
 ├── Excel Analysis
-│   ├── master_sheet.xlsx
-│   ├── pivot_analysis.xlsx
-│   └── insights_sheet.xlsx
+│   ├── master_sheet.xlsx          <-- (Raw Data & Cleaning)
+│   ├── pivot_analysis.xlsx        <-- (Summary Tables)
+│   └── insights_sheet.xlsx        <-- (Calculated Metrics)
 │
 ├── Power BI Dashboard
 │   └── performance_dashboard.pbix
 │
 ├── Screenshots
-│   ├── dashboard-overview.png
-│   ├── pivot-analysis.png
-│   ├── insights-sheet.png
-│   └── kpi-cards.png
+│   ├── dashboard-overview.png     <-- (Main Visual)
+│   ├── pivot-analysis.png         <-- (Excel Pivot View)
+│   ├── insights-sheet.png         <-- (Excel Calculations)
+│   └── kpi-cards.png              <-- (Key Metrics)
 │
 └── Documentation
     └── project-overview.pdf
