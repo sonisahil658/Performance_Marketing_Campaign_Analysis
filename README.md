@@ -81,7 +81,7 @@ Created an interactive Power BI dashboard to analyze:
 
 ## Dashboard Preview
 
-![Screenshots](Dashboard.png)
+Screenshots/Dashboard.png
 
 ---
 
