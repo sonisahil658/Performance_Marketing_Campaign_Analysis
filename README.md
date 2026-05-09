@@ -81,7 +81,7 @@ Created an interactive Power BI dashboard to analyze:
 
 ## Dashboard Preview
 
-Screenshots/Dashboard.png
+(https://github.com/sonisahil658/Performance_Marketing_Campaign_Analysis/blob/6f97f24055ea63550ca35d75d885911ea141cff2/Screenshots/Dashboard.png)
 
 ---
 
